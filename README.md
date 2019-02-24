@@ -5,9 +5,10 @@ To get this job done, you should install the following packages using pip.
   2. pip install PyAudio or pip install pyaudio
   
 Run the Python script on your terminal or command prompt
-  $python3 <filename> (Linux and MAC users)
   
-  >python <filename> (Windows users)
+  python3 <filename> (Linux and MAC users)
+  
+  python <filename> (Windows users)
 
 Please "fork" if you like it.
 
